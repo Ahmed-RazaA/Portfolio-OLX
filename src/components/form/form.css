@@ -1,0 +1,76 @@
+.navbar {
+    height: 60px;
+   
+}
+
+
+
+.input-title {
+    width: 100%;
+}
+.olx-form {
+    border: 1px solid grey;
+    
+}
+
+.form-container {
+    width: 80%;
+    
+}
+form .input-title {
+
+}
+form .text-area{
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.upload-photo {
+    border: 1px solid rgb(118, 116, 116);
+
+}
+ion-icon {
+    font-size: 60px;
+}
+
+.avatar input {
+    width: 80%;
+}
+.same-styling {
+    height: 40px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    border: 1px solid grey;
+    width: 100%;
+}
+.same-styling:active {
+    outline: none;
+    border: 1px solid grey;
+}
+.form-check-input {
+   font-size: 20px;
+}
+.submit-btn {
+    margin: 20px 30px;
+    width:94%;
+    padding: 10px 20px;
+    background-color: #002F34;
+    text-align: center;
+    border-radius: 10px;
+    color: #fff;
+}
+ion-icon {
+    font-size: 50px;
+    margin: 10px auto;
+    color: #002F34;
+}
+
+.form-nav {
+    height: 77px;
+
+}
+.form-nav-olxlogo {
+    position: relative;
+    bottom: 18px;
+    width: 60px;
+}

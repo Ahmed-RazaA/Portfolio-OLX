@@ -1,0 +1,43 @@
+ .footer {
+    background-color: #002F34;
+    
+    width: 100%;
+    
+
+  
+  margin: 0;
+  
+    color: #fff;
+    display: flex;
+    justify-content: end;
+    padding: 20px 40px;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.footer-top {
+   
+    background-color: #EBEEEF;
+    width: 100%;
+    padding: 20px 20px 20px 90px;
+    height: auto;
+}
+
+ .footer-top a {
+    font-size: 13px;
+    text-decoration: none;
+    color: grey;
+ }
+ .footer-top li {
+    list-style: none;
+ }
+
+ .footer-top h2 {
+    font-size: 13px;
+ } 
+li a:hover {
+   color:#23BD9F ;
+   transition: 0.3s;
+   font-weight: bold;
+  
+}

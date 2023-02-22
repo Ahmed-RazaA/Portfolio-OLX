@@ -1,0 +1,25 @@
+p {
+    font-size: 14px;
+}
+h2 {
+    font-size: 17px;
+    font-weight: bold;
+}
+.heading {
+    padding: 30px 25px 0 50px;
+}
+.heading p {
+    margin-left: 33px;
+}
+li {
+    list-style: none;
+}
+.buttons {
+    padding: 20px;
+}
+.button {
+    width: 70px;
+}
+.ul-0f-btns {
+    place-content: center;
+}

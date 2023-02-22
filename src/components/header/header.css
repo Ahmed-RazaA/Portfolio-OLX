@@ -1,0 +1,250 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    
+}
+body{
+    overflow-x: hidden;
+    
+}
+
+  
+.container-fluid{
+    background-color: #F8F9FA;
+}
+
+.logo-search {
+    min-width: 370px;
+}
+.form-control{
+    border: 2px solid black;
+    padding: 11px!important;
+    border-radius: 4px !important;
+    
+  }
+
+  @media (max-width:768px){
+    .position{
+       text-align:center;
+    }
+    .span1{
+      margin-right: 20px;
+    }
+    
+}
+@media (max-width:768px) {
+   .example{
+    margin-left: 10px;
+    margin-top: 5px;
+   }
+}
+@media (max-width:768px) {
+  .position{
+  
+   margin-top: 7px;
+  }
+}
+
+
+.log-olx-small{
+    width: 40px;
+    cursor: pointer;
+    
+}
+._063feb70{
+    margin-left: 11px;
+    
+
+}
+
+/* .biginput{
+    width: 30rem;
+    border: 2px solid black;
+    padding: 11px!important;
+    border-radius: 4px !important;
+     padding-left: 20px !important;
+     margin-left: 28px !important;
+} */
+.search{
+    width: 15rem;
+    height: 30px;
+    color: aliceblue;
+    
+    
+}
+.searchbtn{
+    margin-right: 16rem;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #002F34;
+    border: 2px solid black;
+    width: 50px;
+}
+._4743d0f8 {
+    fill: #fff;
+}
+.btn2{
+    border: none;
+    border-radius: 4px;
+    background-color: #F8F9FA;
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border-radius:5px 0px 0px 5px ;
+    float: left;
+    width: 89%;
+    background: #ffffff;
+  }
+  
+  form.example button {
+    float: left;
+    width: 9%;
+    padding: 9px;
+    background-color: #002F34;
+    color: white;
+    font-size: 21px;
+    border-radius: 1px 6px 6px 2px;
+    border-left: none;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+  }
+  
+
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .example{
+ 
+    border-radius: 4px;
+    outline: none;
+    width: 100%;
+  }
+  .loginbtn{
+    border: none;
+    font-weight: 600;
+    font-size: 19px;
+    background-color: #F8F9FA;
+    text-decoration: underline;
+    margin-left: -12px;
+    margin-right: 10px;
+  }
+  .loginbtn:hover{
+    text-decoration: none;
+  }
+
+.position{
+   
+    position: relative;
+  }
+  .span1{
+    font-weight: 600;
+    position: absolute;
+    left: 20px;
+    top: 11px;
+    right: 7px;
+    cursor: pointer;
+  }
+
+svg{
+  cursor: pointer;
+}
+
+.svg-margin{
+  margin-right: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .top-header-sec {
+    margin-left: 60px;
+}
+.property-link, .car-link {
+    color: black;
+}
+a:hover{
+  color: #3A77FF !important;
+}
+
+.olx-svg {
+    height: 40px;
+}
+.top-header-sect-2  {
+   
+}
+.select-location {
+    margin-left: -77px;
+}
+.form-select {
+    width: 300px;
+    height: 45px;
+    border: 2px solid #002F34;
+}
+.header-search-box input {
+    border: 0;
+    height: 45px;
+}
+.header-search-box input:active {
+    outline: none;
+}
+
+.header-search-box {
+    margin-left: -55px;
+    border: 2px solid #002F34;
+    border-radius: 5px;
+    width: 420px;
+
+}
+.header-search-btn{
+    border: 0;
+    background-color: #002F34;
+    border-radius: 0;
+}
+
+.header-search-icon {
+    color: #fff;
+   
+}
+.login-btn {
+        margin-left: 25px;
+        border: 0;
+        background-color: transparent;
+        text-decoration: underline;
+        text-underline-offset: 5px;
+        font-size: 20px;
+        font-weight: bolder;
+} */

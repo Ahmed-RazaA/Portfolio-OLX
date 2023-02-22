@@ -1,0 +1,27 @@
+
+.header-nav-sm {
+   background-color: #fff;
+}
+.col li {
+   display: inline-block;
+}
+.dropdown-menu {
+  width: 800px;
+   z-index: 2;
+}
+@media only screen and (max-width: 770px) {
+   .dropdown-menu {
+     width: 300px;
+   }
+ }
+.navbar a{
+   font-size: 15PX;
+}
+.header-nav {
+   z-index: 2;
+   background-color: #fff;
+}
+.navbar {
+   background-color: #fff;
+   z-index: 2;
+}
